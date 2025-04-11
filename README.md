@@ -5,13 +5,13 @@ This project analyzes YouTube trending videos in the United States over a 5-mont
 
 The key goals of the project were to:
 
--Understand what types of content are most likely to trend
+- Understand what types of content are most likely to trend
 
--Identify top-performing channels and videos
+- Identify top-performing channels and videos
 
--Explore patterns in upload and trending activity
+- Explore patterns in upload and trending activity
 
--Measure user interaction through likes, views, and comments
+- Measure user interaction through likes, views, and comments
 
 ## Key Insights Delivered:
 Total Trending Videos & Channels: The number of unique videos and creators that appeared on the trending list during the selected period.
