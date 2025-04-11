@@ -26,3 +26,9 @@ The key goals of the project were to:
 - Average Trending Duration: On average, a trending video stayed on the list for approximately 5 days, showing strong video longevity.
 
 - Day-of-Week Analysis: Insights into which days trending activity was highest, revealing potential scheduling strategies.
+
+
+## Tools Used:
+Tableau: For interactive dashboards and data visualization
+
+Microsoft Excel: For data cleaning and preprocessing
