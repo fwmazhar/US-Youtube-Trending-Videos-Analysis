@@ -14,14 +14,15 @@ The key goals of the project were to:
 - Measure user interaction through likes, views, and comments
 
 ## Key Insights Delivered:
-Total Trending Videos & Channels: The number of unique videos and creators that appeared on the trending list during the selected period.
 
-Most Common Categories: A breakdown of trending videos by category (e.g., Music, Entertainment, etc.).
+- Total Trending Videos & Channels: The number of unique videos and creators that appeared on the trending list during the selected period.
 
-Top Channels by Trending Frequency: Identifying creators who appeared most often on the trending list.
+- Most Common Categories: A breakdown of trending videos by category (e.g., Music, Entertainment, etc.).
 
-Monthly Trending Activity: Distribution of trending videos across each month to detect patterns or spikes.
+- Top Channels by Trending Frequency: Identifying creators who appeared most often on the trending list.
 
-Average Trending Duration: On average, a trending video stayed on the list for approximately 5 days, showing strong video longevity.
+- Monthly Trending Activity: Distribution of trending videos across each month to detect patterns or spikes.
 
-Day-of-Week Analysis: Insights into which days trending activity was highest, revealing potential scheduling strategies.
+- Average Trending Duration: On average, a trending video stayed on the list for approximately 5 days, showing strong video longevity.
+
+- Day-of-Week Analysis: Insights into which days trending activity was highest, revealing potential scheduling strategies.
